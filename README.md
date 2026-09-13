@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/thogaruchesti-hemanth/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/lovely_sh_liker_08/" target="_blank">
+  <a href="https://www.instagram.com/indian_mobile_developer/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/thogaruchesti_hemanth/" target="_blank">
