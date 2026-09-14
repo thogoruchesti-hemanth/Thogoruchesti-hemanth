@@ -42,7 +42,7 @@
   <a href="https://leetcode.com/thogaruchesti_hemanth/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://thogaruchesti-hemanth.web.app/" target="_blank">
+  <a href="https://thogoruchesti-hemanth.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
